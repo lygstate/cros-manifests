@@ -9,4 +9,7 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com"
           review="https://android-review.googlesource.com" />
+  <remote name="swiftshader"
+          fetch="https://swiftshader.googlesource.com"
+          review="https://swiftshader-review.googlesource.com" />
 </manifest>

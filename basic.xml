@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="_remotes.xml" />
+  <default revision="refs/heads/main"
+           remote="cros"
+           sync-j="1" />
+
+  <project name="angle/angle" />
+  <project name="chromium/src" />
+  <project name="external/github.com/mozilla/gecko-dev" revision="refs/heads/master" />
+  <project name="external/github.com/WebKit/webkit" />
+  <project name="SwiftShader" remote="swiftshader" />
+
+</manifest>

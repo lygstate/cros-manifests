@@ -8,7 +8,6 @@
   <project name="android_ndk" />
   <project name="android_tools" />
   <project name="angle" />
-  <project name="angle/angle" />
   <project name="aosp" />
   <project name="aosp/platform/external/dbus-binding-generator" />
   <project name="aosp/platform/external/libbrillo" />
@@ -156,7 +155,6 @@
   <project name="chromium/reference_builds/chrome_mac" />
   <project name="chromium/reference_builds/chrome_win" />
   <project name="chromium/repo-hooks" />
-  <project name="chromium/src" />
   <project name="chromium/src/android_webview/glue" />
   <project name="chromium/src/android_webview/support_library/boundary_interfaces" />
   <project name="chromium/src/base" />
@@ -1192,7 +1190,6 @@
   <project name="external/github.com/mitsuhiko/jinja2" />
   <project name="external/github.com/mitsuhiko/markupsafe" />
   <project name="external/github.com/mjibson/goon" />
-  <project name="external/github.com/mozilla/gecko-dev" revision="refs/heads/master" />
   <project name="external/github.com/mozilla/readability" />
   <project name="external/github.com/nanopb/nanopb" />
   <project name="external/github.com/natefinch/npipe" />
@@ -1324,7 +1321,6 @@
   <project name="external/github.com/WebAssembly/wabt" />
   <project name="external/github.com/WebAssembly/wasm-e2e" />
   <project name="external/github.com/WebAssembly/waterfall" />
-  <project name="external/github.com/WebKit/webkit" />
   <project name="external/github.com/webosose/webos-wayland-extensions" />
   <project name="external/github.com/web-platform-tests/wpt" />
   <project name="external/github.com/withoutboats/heck" />
